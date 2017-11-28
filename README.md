@@ -13,3 +13,5 @@ After this project I've learnd how to use HTML and CSS.
 ## Technical informations
 Page was developed in HTML and CCS. I used Atom. 
 
+## Credits
+lion's picture: http://3.bp.blogspot.com/-edKnLM6Cc4E/VX81lp8htpI/AAAAAAAABu4/Ai3Wm6ys4_0/s1600/maxresdefault.jpg
