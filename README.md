@@ -8,7 +8,7 @@ I would like to inspire other students to create and share their projects.
 I wanted to see if I can make nice looking website. 
 
 ## What did I learn? 
-After this project I've learnd how to use HTML and CSS.
+After this project I've learnd how to use HTML and CSS.I’ve learned how to use cursor option. When you hover over the lion you can see the question mark „?”. After clicking that you’re redirected to wikipedia. Outside the picture you can’t see the cursor. I’ve learned how to use some nice css properties like padding border-radius and margin.
 
 ## Technical informations
 Page was developed in HTML and CCS. I used Atom. 
