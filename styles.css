@@ -1,0 +1,63 @@
+img{
+  height: 200px;
+  width: 300px;
+  margin: 10px;
+  cursor: help;
+  border-radius: 15%;
+}
+h3{
+  font-family: Fantasy;
+  font-weight: bold;
+  margin-left: 10px;
+  font-size: 50px;
+  height: 1px;
+  position: static;
+  margin-top: 1px;
+}
+.groove1{
+  border-style: groove;
+  height: 640px;
+  width: 320px;
+  border-width: 2px;
+  border-color: #f2f2f2;
+  box-shadow: 5px 5px #DCDCDC;
+  background: #FAF0E6;
+  border-radius: 10px;
+  cursor: none;
+}
+.groove2{
+  border-style: groove;
+  height: 340px;
+  width: 295px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-width: 2px;
+  border-color: #f2f2f2;
+  background: #FFFAF0;
+  border-radius: 10px;
+  cursor: none;
+}
+.thick{
+  font-weight: bold;
+}
+.italic{
+  font-style: italic;
+}
+.text{
+  margin: 10px;
+  font-size: 14px;
+}
+.text2{
+  font-size: 16px;
+}
+.text3{
+  font-size: 15px;
+}
+.list-style{
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+.web{
+  cursor: help;
+}
